@@ -1,0 +1,35 @@
+body{
+    background: blueviolet;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:white;
+}
+
+h1{
+    color: lightseagreen;
+}
+
+.contenedor{
+    text-align: center;
+}
+
+
+li ul{
+    text-align: center;
+    text-decoration: none;
+}
+
+.btn{
+    background-color: hotpink;
+    color:white;
+    font: 1em sans-serif;
+    border: 2px solid white;
+}
+
+.table-responsive{
+    padding-top: 30px;   
+}
+
+.table-responsive thead{
+    background-color: white;
+    color: gray;
+}
